@@ -11,7 +11,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "result1";
+$dbname = "DBNAME";
 $roll = $_POST["roll"];
 $class = $_POST["class"] ;
 // Create connection
